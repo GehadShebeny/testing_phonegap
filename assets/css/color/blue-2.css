@@ -1,0 +1,112 @@
+/*
+	[ Blue Light Color - Default Stylesheet ]
+
+	Theme Name: Stark
+	Version: 1.0.0
+	Author: webPentagon
+	Author URI: 
+	Description:Multi-Purpose Theme by ThemeBasket
+	color:#859c20;
+*/
+
+.spin,.menu-child-list:hover a,.main-nav .mega-menu-container li a:not(.zn_mega_title):hover,
+.main-nav .mega-menu-container li.active>a:not(.zn_mega_title),
+.navbar-stark .nav li ul li:hover a,
+.navbar-sticky-bottom .nav li ul li a:hover,
+.stark-nav-collapse .navbar-nav > li > a:hover,
+.stark-nav-collapse .navbar-nav > li.active > a,
+.navbar-stark .navbar-nav > li > a:hover,
+.navbar-stark .navbar-nav > li.active > a,
+.nav-top-right ul li a:hover,
+.footer-2 ul li a:hover,.footer-bottom-right p i,.fun-number,
+.latest-news:hover .news-content a,
+.latest-news-1:hover .news-content a,.address ul li i,
+.service-middle ul li:hover i,.service-category ul li:hover a,
+.history-slide-content:hover h1,.timeline .title a,.timeline .start,.timeline .start a,
+.timeline .note h3,.box-content p,.archievement-content h4,
+.cbp-l-filters-buttonCenter .cbp-filter-item:hover, .cbp-l-filters-buttonCenter .cbp-filter-item.cbp-filter-item-active,
+.shortcode-list ul li i,.tooltip-content p span,.design,.heading-blue ul li,
+.heading-blue ul li a,.about-detail-2 ul li i,.team-grid h3,.team-grid h3 a,.team-list h3,.team-list h3 a,
+.team-list-2 h3,.team-list-2 h3 a,.project-box:hover .project-box-detail a,.single-project-link a{
+	color: #859c20;
+}
+
+.menu-upper,.mega-menu-container .menu-child-list a:hover,.main-nav ul ul.sub-menu li a:hover,
+.index5-nav-top,.footer-1 ul li:hover,
+.service-box:hover .service-box-detail h4:before,
+.blue-back,.small-header-2:after,.offer-left,.member-title span:before,.main-header:after,.quote-back,
+.small-header-3:after,.project-box:hover .project-box-detail a.left-border:before,
+.service-slide .owl-controls .owl-page.active span, 
+.service-slide .owl-controls.clickable .owl-page:hover span,
+.category-bottom,.blog-category-bottom,.page-heading h2:after,.panel-active .panel-title,
+.shortcode-table1 .table thead,.shortcode-table3 .table thead,.dropcaps p:hover .drop-hover,
+.alert-success strong,.skillbar-bar,.heading-border,.quote-form-btn,.faq-number{
+	background: #859c20;
+}
+
+.finance-content .btn-default,
+.form-btn,.form-btn:hover,.form-btn:active,.ocean-comment-btn,
+.btn-primary,.btn-primary:hover,
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, 
+.pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover,
+.archievement-content .btn-default,.shortcode-button .btn-default,.error-content .btn-default,
+.footer-newsletter .input-group-addon,.hesperiden.tparrows:hover {
+	background:#859c20;
+	border: 1px solid #859c20;
+}
+.tp-caption.LandingPage-Button-1{
+	background:#859c20!important;
+	border:1px solid #859c20!important;
+}
+.timeline .title,.timeline .start,.timeline .note:after {
+	border: 2px solid #859c20;
+}
+.timeline .note:hover:after {
+	background: none repeat scroll 0 0 #859c20;
+	border: 2px solid #859c20;
+}
+.advisor-content,.project-box:hover .project-box-detail,
+.service-box:hover .service-box-detail,.menu-child-list:hover:after{
+	border-bottom:3px solid #859c20;
+}
+
+.cbp-l-filters-buttonCenter .cbp-filter-counter:after {
+    border-top: 4px solid #859c20;
+}
+
+.menu-upper:before,.li-back{
+	border-bottom: 50px solid #859c20;
+}
+
+.latest-news:hover .news-content a:after,
+.service-category ul li:hover,
+.footer-2 ul li a:hover:after{
+	border-bottom:1px solid #859c20;
+}
+
+.tour-tab .nav-tabs>li.active>a .box-content,.object,
+.cbp-l-filters-buttonCenter .cbp-filter-counter,
+.shortcode-icon-list .shortcode-icon a:hover{
+	background-color: #859c20;
+}
+
+.service-box:hover figcaption{
+	background: rgba(51, 161, 221, 0.92);
+}
+
+@media only screen and (max-width:992px) {
+	.toggle.menu .line {
+        background-color: #859c20;
+    }
+	#menu-handler:checked ~ .mobile-nav .stark-nav-collapse .toggle.menu .line {
+        background-color: #859c20 !important;
+    }
+}
+
+
+.nav-top-left ul li i
+
+{
+	color:#fff !important;
+	float:right;
+}

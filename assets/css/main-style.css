@@ -1,0 +1,86 @@
+@charset "utf-8";
+
+/*
+	[ Shortcode Stylesheet ]
+	<?xml version="1.0" encoding="UTF-8"?>
+
+	Theme Name: Stark
+	Version: 1.0.0
+	Author: webPentagon
+	Author URI: 
+	Description:Multi-Purpose Theme by webPentagon
+*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700');
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,300,500,600,700');
+
+@import url('elegant-icon.css');
+@import url('font-awesome.min.css');
+@import url('bootstrap.min.css');
+@import url('menu.css');
+@import url('style.css');
+@import url('media.css');
+@import url('cubeportfolio.css');
+@import url('owl.carousel.css');
+@import url('owl.theme.css');
+@import url('owl.transitions.css');
+@import url('linea-icon.css');
+@import url('magnific-popup.css');
+@import url('theme_panel.css');
+
+@import url('revolution/settings.css');
+@import url('revolution/navigation.css');
+@import url('revolution/layers.css');
+/*@import url('color/blue-2.css');*/
+
+
+
+
+/*
+	Fonts
+*/
+
+
+@font-face {
+    font-family: 'DROIDKUFI-REGULAR_0';
+    src: url('../../assets/fonts/montserrat-bold-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/montserrat-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'DROIDKUFI-REGULAR_0';
+    src: url('../../assets/fonts/montserrat-light-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/montserrat-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'montserratregular';
+    src: url('../../assets/fonts/montserrat-regular-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/montserrat-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'montserratsemi_bold';
+    src: url('../../assets/fonts/montserrat-semibold-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/montserrat-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'montserratultra_light';
+    src: url('../../assets/fonts/montserrat-ultralight-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/montserrat-ultralight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
